@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello World", "author": "John Doe" },
+    { "id": 2, "title": "json-server is awesome", "author": "Jane Doe" }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "body": "Nice post!" },
+    { "id": 2, "postId": 2, "body": "I agree!" }
+  ],
+  "profile": { "name": "John Doe" }
+}
